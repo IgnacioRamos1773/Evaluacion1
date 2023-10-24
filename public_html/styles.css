@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+img {
+    max-width: 350px;
+    border-radius: 50%;
+}
+
+h2{
+    background-color: navy;
+    color: lightblue;
+    font-family: cursive;
+    font-size: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+
+
+}
+
+#descripcion{
+    background-color: lightgray;
+    color: black;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#hab{
+    background-color: lightgrey;
+    color: black;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+h3{
+    background-color: navy;
+    color: lightblue;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
